@@ -3,7 +3,7 @@ Generated patterns formed by diagonal tilings
 
 ## <p align="center"><img src="./truchet.gif"></p>
 ## Link
-[Truchet's Tiling](https://akashmeshram.github.io/TRUCHET-S-TILING/).
+[Truchet's Tiling](https://akashmeshram.github.io/TRUCHET-S-TILING/)
 
 ## Author
 *  [Akash Meshram](https://github.com/akashmeshram)
